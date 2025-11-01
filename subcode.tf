@@ -8,7 +8,7 @@ default = "us-east-1"
 variable "vpc_id" {
   description = "ID of the existing VPC to use"
   type        = string
-default = "vpc-0ca5f2523caa1144f"
+default = "vpc-0151e2f2994d76b42"
 }
  
  
